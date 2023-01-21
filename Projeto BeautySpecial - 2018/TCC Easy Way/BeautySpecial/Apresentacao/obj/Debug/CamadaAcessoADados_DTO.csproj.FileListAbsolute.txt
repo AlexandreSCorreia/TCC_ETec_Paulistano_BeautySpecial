@@ -1,0 +1,314 @@
+G:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC Atualizado\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+G:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC Atualizado\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+G:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC Atualizado\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojResolveAssemblyReference.cache
+G:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC Atualizado\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+G:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC Atualizado\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+G:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC Atualizado\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+D:\TCC Atualizado\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+D:\TCC Atualizado\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+D:\TCC Atualizado\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+D:\TCC Atualizado\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+D:\TCC Atualizado\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+D:\TCC Atualizado\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+G:\TCC Atualizado\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+G:\TCC Atualizado\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+G:\TCC Atualizado\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+G:\TCC Atualizado\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+G:\TCC Atualizado\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+F:\TCC Atualizado 1.0\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+F:\TCC Atualizado 1.0\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+F:\TCC Atualizado 1.0\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojResolveAssemblyReference.cache
+F:\TCC Atualizado 1.0\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+F:\TCC Atualizado 1.0\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+G:\TCC Atualizado 2.0\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+G:\TCC Atualizado 2.0\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+G:\TCC Atualizado 2.0\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+G:\TCC Atualizado 2.0\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+G:\TCC Atualizado 2.0\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+G:\TCC Atualizado 2.0\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+G:\CadastroTeste\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+G:\CadastroTeste\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+G:\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+G:\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+F:\CadastroTeste\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+F:\CadastroTeste\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+F:\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+F:\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+D:\CadastroTeste\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+D:\CadastroTeste\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+D:\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+D:\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+D:\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+D:\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+G:\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+G:\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+F:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+F:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+F:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+F:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+H:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+H:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+H:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+H:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+H:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+H:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+D:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+D:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+D:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+D:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+D:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+D:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+G:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+G:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+G:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+G:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+G:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+G:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+F:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+F:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+D:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+D:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+D:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+D:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+D:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+D:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+F:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+F:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+F:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+F:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+F:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojResolveAssemblyReference.cache
+D:\Banco de dados\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+D:\Banco de dados\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+D:\Banco de dados\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+D:\Banco de dados\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+D:\Banco de dados\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+D:\Banco de dados\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\Kaneki\Desktop\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\Kaneki\Desktop\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\Kaneki\Desktop\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+C:\Users\Kaneki\Desktop\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+C:\Users\Kaneki\Desktop\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\Kaneki\Desktop\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojResolveAssemblyReference.cache
+C:\Users\alcorreia\Desktop\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+C:\Users\MisterSpeedy\Desktop\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Desktop\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\manager\Desktop\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\manager\Desktop\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\manager\Desktop\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+C:\Users\manager\Desktop\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+C:\Users\manager\Desktop\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\manager\Desktop\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+D:\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+D:\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+D:\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+D:\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+D:\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+D:\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+C:\Users\MisterSpeedy\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+F:\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+F:\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+F:\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojResolveAssemblyReference.cache
+F:\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+F:\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Documents\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Documents\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Documents\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+C:\Users\MisterSpeedy\Documents\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Documents\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Documents\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojResolveAssemblyReference.cache
+C:\Users\alcorreia\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+F:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+F:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+F:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojResolveAssemblyReference.cache
+F:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+F:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+I:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+I:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+I:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojResolveAssemblyReference.cache
+I:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+I:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+D:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+D:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+D:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+D:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+D:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+D:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+D:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+D:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+D:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+D:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+D:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+D:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+E:\3° Módulo\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+E:\3° Módulo\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+E:\3° Módulo\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+E:\3° Módulo\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+E:\3° Módulo\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+E:\3° Módulo\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+G:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+G:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+G:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+G:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+G:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+G:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+D:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+D:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+D:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+D:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+D:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+D:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+C:\Users\MisterSpeedy\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+F:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+F:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+F:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojResolveAssemblyReference.cache
+F:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+F:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+I:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+I:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+I:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+I:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+I:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+I:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojResolveAssemblyReference.cache
+C:\Users\alcorreia\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\manager\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\manager\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\manager\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+C:\Users\manager\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+C:\Users\manager\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\manager\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+C:\Users\MisterSpeedy\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\Aluno\Documents\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\Aluno\Documents\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\Aluno\Documents\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\Aluno\Documents\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\manager\Desktop\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\manager\Desktop\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\manager\Desktop\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+C:\Users\manager\Desktop\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+C:\Users\manager\Desktop\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\manager\Desktop\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojResolveAssemblyReference.cache
+C:\Users\alcorreia\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\Aluno\Desktop\TCCTrabalho\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\Aluno\Desktop\TCCTrabalho\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\Aluno\Desktop\TCCTrabalho\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\TCCTrabalho\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\Aluno\Desktop\TCCTrabalho\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojResolveAssemblyReference.cache
+C:\Users\alcorreia\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\TCCcasa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\TCCcasa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\TCCcasa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\TCCcasa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\manager\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\manager\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\manager\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+C:\Users\manager\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+C:\Users\manager\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\manager\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\TCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\TCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\TCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\TCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\manager\Desktop\TCC 3.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\manager\Desktop\TCC 3.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\manager\Desktop\TCC 3.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+C:\Users\manager\Desktop\TCC 3.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+C:\Users\manager\Desktop\TCC 3.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\manager\Desktop\TCC 3.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+C:\Users\MisterSpeedy\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojResolveAssemblyReference.cache
+C:\Users\alcorreia\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+D:\BeautySpecialMobile (2)\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+D:\BeautySpecialMobile (2)\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+D:\BeautySpecialMobile (2)\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+D:\BeautySpecialMobile (2)\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+D:\BeautySpecialMobile (2)\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+D:\BeautySpecialMobile (2)\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\manager\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\manager\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\manager\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+C:\Users\manager\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+C:\Users\manager\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\manager\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.dll
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.dll
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Debug\Apresentacao.pdb

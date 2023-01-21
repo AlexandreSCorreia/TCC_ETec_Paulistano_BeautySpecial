@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{18C465A0-4E04-4009-A805-82FA7880DE9C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CamadaLogicaDeNegocios_BLL</RootNamespace>
+    <AssemblyName>CamadaLogicaDeNegocios_BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClassAgendamento_BLL.cs" />
+    <Compile Include="ClassCliente_BLL.cs" />
+    <Compile Include="ClassComanda_BLL.cs" />
+    <Compile Include="ClassFuncionario_BLL.cs" />
+    <Compile Include="ClassGrupo_BLL.cs" />
+    <Compile Include="ClassLogin_BLL.cs" />
+    <Compile Include="ClassProduto_BLL.cs" />
+    <Compile Include="ClassServico_BLL.cs" />
+    <Compile Include="ClassTelefone_BLL.cs" />
+    <Compile Include="ClassTipoPagamento_BLL.cs" />
+    <Compile Include="ClassTipo_Telefone_BLL.cs" />
+    <Compile Include="IClassAgendamento_BLL.cs" />
+    <Compile Include="IClassCliente_BLL.cs" />
+    <Compile Include="IClassComanda_BLL.cs" />
+    <Compile Include="IClassFuncionario_BLL.cs" />
+    <Compile Include="IClassGrupo_BLL.cs" />
+    <Compile Include="IClassLogin_BLL.cs" />
+    <Compile Include="IClassProduto_BLL.cs" />
+    <Compile Include="IClassServico_BLL.cs" />
+    <Compile Include="IClassTelefone_BLL.cs" />
+    <Compile Include="IClassTipoPagamento_BLL.cs" />
+    <Compile Include="IClassTipo_Telefone_BLL.cs" />
+    <Compile Include="IPermissao_BLL.cs" />
+    <Compile Include="Permissao_BLL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Apresentacao\CamadaAcessoADados_DTO.csproj">
+      <Project>{de0cadcd-8161-4c5d-8c98-da9f3c2644b0}</Project>
+      <Name>CamadaAcessoADados_DTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ObjetoTransferenciaDeDados_DAL\ObjetoTransferenciaDeDados_DAL.csproj">
+      <Project>{6dce73f4-8254-4053-b3d8-829b4ce3cbe5}</Project>
+      <Name>ObjetoTransferenciaDeDados_DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

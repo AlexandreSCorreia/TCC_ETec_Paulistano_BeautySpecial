@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <style name="SplashScreen.Theme" parent="android:Theme">
+    <item name="android:windowBackground">
+      @drawable/Splash
+    </item>
+    <item name="android:windowNoTitle">true</item>
+  </style>
+  <style name="Login.Theme" parent="android:Theme">
+    <item name="android:windowNoTitle">true</item>
+  </style>
+  <style name="CadCliente.Theme" parent="android:Theme">
+    <item name="android:windowNoTitle">true</item>
+  </style>
+</resources>

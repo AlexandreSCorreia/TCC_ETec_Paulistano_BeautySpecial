@@ -1,0 +1,11 @@
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Release\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Release\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Release\CamadaAcessoADados_DTO.csprojAssemblyReference.cache
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Release\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Release\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Release\Apresentacao.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Release\Apresentacao.dll
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\bin\Release\Apresentacao.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Release\CamadaAcessoADados_DTO.csproj.CoreCompileInputs.cache
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Release\Apresentacao.dll
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Apresentacao\obj\Release\Apresentacao.pdb

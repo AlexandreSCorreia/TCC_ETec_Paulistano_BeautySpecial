@@ -1,0 +1,762 @@
+F:\TCC Atualizado 1.0\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+F:\TCC Atualizado 1.0\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+F:\TCC Atualizado 1.0\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+F:\TCC Atualizado 1.0\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+F:\TCC Atualizado 1.0\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+F:\TCC Atualizado 1.0\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+F:\TCC Atualizado 1.0\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+F:\TCC Atualizado 1.0\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+F:\TCC Atualizado 1.0\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+G:\TCC Atualizado 2.0\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+G:\TCC Atualizado 2.0\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+G:\TCC Atualizado 2.0\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+G:\TCC Atualizado 2.0\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+G:\TCC Atualizado 2.0\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+G:\TCC Atualizado 2.0\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+G:\TCC Atualizado 2.0\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+G:\TCC Atualizado 2.0\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+G:\TCC Atualizado 2.0\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+G:\TCC Atualizado 2.0\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+G:\TCC Atualizado 2.0\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+G:\TCC Atualizado 2.0\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+G:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+G:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+G:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+G:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+G:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+G:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+G:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+G:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+D:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+D:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+D:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+D:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+D:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+D:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+D:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+D:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+F:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+F:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+F:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+F:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+F:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+F:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+F:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+F:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+F:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+G:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+G:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+G:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+G:\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\Kaneki\Desktop\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\Kaneki\Desktop\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\Kaneki\Desktop\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\Kaneki\Desktop\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\Kaneki\Desktop\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\Kaneki\Desktop\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\Kaneki\Desktop\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\Kaneki\Desktop\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\Kaneki\Desktop\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Kaneki\Desktop\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\Kaneki\Desktop\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\Kaneki\Desktop\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+G:\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+G:\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+G:\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+G:\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+G:\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+G:\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+G:\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+G:\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+G:\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+G:\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+G:\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+G:\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\Bruna\ETEC Paulistano\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\Bruna\ETEC Paulistano\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\Bruna\ETEC Paulistano\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\Bruna\ETEC Paulistano\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\Bruna\ETEC Paulistano\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\Bruna\ETEC Paulistano\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\Bruna\ETEC Paulistano\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\Bruna\ETEC Paulistano\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+C:\Users\Bruna\ETEC Paulistano\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Bruna\ETEC Paulistano\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\Bruna\ETEC Paulistano\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\Bruna\ETEC Paulistano\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+F:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+F:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+F:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+F:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+F:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+F:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+F:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+F:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+G:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+G:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+G:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+G:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+G:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+G:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+G:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+G:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+G:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+G:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+G:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+G:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+H:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+H:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+H:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+H:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+H:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+H:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+H:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+H:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+H:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+H:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+H:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+H:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+D:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+D:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+D:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+D:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+D:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+D:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+D:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+D:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+F:\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+F:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+F:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+F:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+F:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+F:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+F:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+F:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+F:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+F:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+D:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+D:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+D:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+D:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+D:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+D:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+D:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+I:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+I:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+I:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+I:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+I:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+I:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+I:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+I:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+I:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+I:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+I:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+I:\CadastroTeste\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\Banco de dados\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\Banco de dados\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\Banco de dados\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+D:\Banco de dados\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+D:\Banco de dados\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+D:\Banco de dados\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+D:\Banco de dados\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+D:\Banco de dados\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+D:\Banco de dados\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+D:\Banco de dados\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+D:\Banco de dados\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\Banco de dados\BeautySpecial Banco de dados\TCC Atualizado 2.0\CadastroTeste\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\Nova pasta\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\Nova pasta\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\Nova pasta\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\Nova pasta\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\alcorreia\Desktop\Nova pasta\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\Nova pasta\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\alcorreia\Desktop\Nova pasta\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+C:\Users\alcorreia\Desktop\Nova pasta\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\Nova pasta\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\alcorreia\Desktop\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\alcorreia\Desktop\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+C:\Users\alcorreia\Desktop\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+D:\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+D:\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+D:\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+D:\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+D:\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+D:\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+D:\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+D:\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\Kaneki\Desktop\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\Kaneki\Desktop\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\Kaneki\Desktop\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\Kaneki\Desktop\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\Kaneki\Desktop\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\Kaneki\Desktop\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\Kaneki\Desktop\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\Kaneki\Desktop\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\Kaneki\Desktop\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Kaneki\Desktop\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\Kaneki\Desktop\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\Kaneki\Desktop\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+C:\Users\alcorreia\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\alcorreia\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\MisterSpeedy\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\MisterSpeedy\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\MisterSpeedy\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\MisterSpeedy\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\MisterSpeedy\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\MisterSpeedy\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\MisterSpeedy\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\MisterSpeedy\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\MisterSpeedy\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\manager\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\manager\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\manager\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\manager\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\manager\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\manager\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\manager\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\manager\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\manager\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\manager\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\manager\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\manager\Desktop\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+D:\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+D:\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+D:\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+D:\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+D:\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+D:\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+D:\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+D:\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\MisterSpeedy\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\MisterSpeedy\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\MisterSpeedy\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\MisterSpeedy\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\MisterSpeedy\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\MisterSpeedy\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\MisterSpeedy\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\MisterSpeedy\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\MisterSpeedy\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+F:\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+F:\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+F:\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+F:\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+F:\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+F:\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+F:\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+F:\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+F:\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\MisterSpeedy\Documents\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\MisterSpeedy\Documents\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\MisterSpeedy\Documents\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Documents\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\MisterSpeedy\Documents\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Documents\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\MisterSpeedy\Documents\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\MisterSpeedy\Documents\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\MisterSpeedy\Documents\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Documents\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\MisterSpeedy\Documents\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\MisterSpeedy\Documents\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\alcorreia\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\alcorreia\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+C:\Users\alcorreia\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+F:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+F:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+F:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+F:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+F:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+F:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+F:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+F:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+F:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+I:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+I:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+I:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+I:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+I:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+I:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+I:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+I:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+I:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+D:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+D:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+D:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+D:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+D:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+D:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+D:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+D:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+D:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+D:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+D:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+D:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+D:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+D:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+D:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+D:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+E:\3° Módulo\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+E:\3° Módulo\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+E:\3° Módulo\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+E:\3° Módulo\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+E:\3° Módulo\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+E:\3° Módulo\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+E:\3° Módulo\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+E:\3° Módulo\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+E:\3° Módulo\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+E:\3° Módulo\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+E:\3° Módulo\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+E:\3° Módulo\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+G:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+G:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+G:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+G:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+G:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+G:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+G:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+G:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+G:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+G:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+G:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+G:\ApresentaçãoTCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+G:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+G:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+G:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+G:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+G:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+G:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+G:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+G:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+G:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+G:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+G:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+G:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+F:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+F:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+F:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+F:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+F:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+F:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+F:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+F:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+F:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+D:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+D:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+D:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+D:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+D:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+D:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+D:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+D:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\MisterSpeedy\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\MisterSpeedy\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\MisterSpeedy\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\MisterSpeedy\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\MisterSpeedy\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\MisterSpeedy\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\MisterSpeedy\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\MisterSpeedy\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\MisterSpeedy\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\Aluno\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\Aluno\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\Aluno\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\Aluno\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\Aluno\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\Aluno\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\Aluno\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\Aluno\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\Aluno\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\Aluno\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+I:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+I:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+I:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+I:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+I:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+I:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+I:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+I:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+I:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+I:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+I:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+I:\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\alcorreia\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\alcorreia\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+C:\Users\alcorreia\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\ApresentaçãoTCCAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\manager\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\manager\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\manager\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\manager\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\manager\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\manager\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\manager\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\manager\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\manager\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\manager\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\manager\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\manager\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\MisterSpeedy\Desktop\ultima atualizacao do software\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\MisterSpeedy\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\MisterSpeedy\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\MisterSpeedy\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\MisterSpeedy\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\MisterSpeedy\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\MisterSpeedy\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\MisterSpeedy\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\MisterSpeedy\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\MisterSpeedy\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\alcorreia\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\alcorreia\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+C:\Users\alcorreia\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\TCCAtualizado01\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\Aluno\Documents\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\Aluno\Documents\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\Aluno\Documents\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\Aluno\Documents\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\Aluno\Documents\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\Aluno\Documents\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\Aluno\Documents\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\Aluno\Documents\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\Aluno\Documents\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\Aluno\Documents\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\manager\Desktop\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\manager\Desktop\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\manager\Desktop\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\manager\Desktop\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\manager\Desktop\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\manager\Desktop\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\manager\Desktop\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\manager\Desktop\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\manager\Desktop\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\manager\Desktop\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\manager\Desktop\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\manager\Desktop\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+F:\TodosProjetos\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+F:\TodosProjetos\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+F:\TodosProjetos\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+F:\TodosProjetos\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+F:\TodosProjetos\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+F:\TodosProjetos\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+F:\TodosProjetos\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+F:\TodosProjetos\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+F:\TodosProjetos\SistemaAtualizado\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\MisterSpeedy\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\MisterSpeedy\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\MisterSpeedy\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\MisterSpeedy\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\MisterSpeedy\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\MisterSpeedy\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\MisterSpeedy\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\MisterSpeedy\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\MisterSpeedy\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\alcorreia\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\alcorreia\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+C:\Users\alcorreia\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\TCCBarbosa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\Aluno\Desktop\TCCTrabalho\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\Aluno\Desktop\TCCTrabalho\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\Aluno\Desktop\TCCTrabalho\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\Aluno\Desktop\TCCTrabalho\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\Aluno\Desktop\TCCTrabalho\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\Aluno\Desktop\TCCTrabalho\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\Aluno\Desktop\TCCTrabalho\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\TCCTrabalho\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\Aluno\Desktop\TCCTrabalho\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\alcorreia\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\alcorreia\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+C:\Users\alcorreia\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\manager\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\manager\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\manager\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\manager\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\manager\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\manager\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\manager\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\manager\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\manager\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\manager\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\manager\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\manager\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\MisterSpeedy\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\MisterSpeedy\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\MisterSpeedy\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\MisterSpeedy\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\MisterSpeedy\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\MisterSpeedy\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\MisterSpeedy\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\MisterSpeedy\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\MisterSpeedy\Desktop\TCCTrabalho_Etec\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\TCCcasa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\TCCcasa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\TCCcasa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\TCCcasa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\alcorreia\Desktop\TCCcasa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\TCCcasa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\alcorreia\Desktop\TCCcasa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+C:\Users\alcorreia\Desktop\TCCcasa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\TCCcasa\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\mobile\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\mobile\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\mobile\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+D:\mobile\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+D:\mobile\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+D:\mobile\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+D:\mobile\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+D:\mobile\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+D:\mobile\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+D:\mobile\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+D:\mobile\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\mobile\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\manager\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\manager\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\manager\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\manager\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\manager\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\manager\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\manager\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\manager\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\manager\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\manager\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\manager\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\manager\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\alcorreia\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\alcorreia\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+C:\Users\alcorreia\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\TCCtrabalho2.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\TCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\TCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\TCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\TCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\alcorreia\Desktop\TCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\TCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\alcorreia\Desktop\TCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+C:\Users\alcorreia\Desktop\TCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\TCC\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\manager\Desktop\TCC 3.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\manager\Desktop\TCC 3.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\manager\Desktop\TCC 3.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\manager\Desktop\TCC 3.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\manager\Desktop\TCC 3.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\manager\Desktop\TCC 3.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\manager\Desktop\TCC 3.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\manager\Desktop\TCC 3.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\manager\Desktop\TCC 3.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\manager\Desktop\TCC 3.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\manager\Desktop\TCC 3.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\manager\Desktop\TCC 3.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\MisterSpeedy\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\MisterSpeedy\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\MisterSpeedy\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\MisterSpeedy\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\MisterSpeedy\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\MisterSpeedy\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\MisterSpeedy\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\MisterSpeedy\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\MisterSpeedy\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\alcorreia\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\alcorreia\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\alcorreia\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\alcorreia\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\alcorreia\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojResolveAssemblyReference.cache
+C:\Users\alcorreia\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\alcorreia\Desktop\TCC 4.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\BeautySpecialMobile (2)\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\BeautySpecialMobile (2)\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\BeautySpecialMobile (2)\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+D:\BeautySpecialMobile (2)\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+D:\BeautySpecialMobile (2)\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+D:\BeautySpecialMobile (2)\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+D:\BeautySpecialMobile (2)\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+D:\BeautySpecialMobile (2)\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+D:\BeautySpecialMobile (2)\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+D:\BeautySpecialMobile (2)\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+D:\BeautySpecialMobile (2)\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\BeautySpecialMobile (2)\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\manager\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\manager\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\manager\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\manager\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\manager\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\manager\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\manager\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\manager\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\manager\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\manager\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\manager\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\manager\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+D:\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+D:\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+D:\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+D:\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+D:\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+D:\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+D:\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+D:\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+D:\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+D:\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+D:\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\CamadaLogicaDeNegocios_BLL.pdb
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.pdb
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\bin\Debug\ObjetoTransferenciaDeDados_DAL.dll.config
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csprojAssemblyReference.cache
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.csproj.CopyComplete
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.dll
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\CamadaLogicaDeNegocios_BLL\obj\Debug\CamadaLogicaDeNegocios_BLL.pdb

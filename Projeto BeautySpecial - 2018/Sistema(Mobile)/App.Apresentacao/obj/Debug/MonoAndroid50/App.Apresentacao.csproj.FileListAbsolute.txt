@@ -1,0 +1,370 @@
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\App.Apresentacao.csprojAssemblyReference.cache
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\res.flag
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\App.Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\App.Apresentacao.dll
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\App.Apresentacao.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\App.Apresentacao.App.Apresentacao.apk
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\App.Apresentacao.App.Apresentacao-Signed.apk
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\App.Apresentacao.csproj.CopyComplete
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\App.Apresentacao.dll
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\App.Apresentacao.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\android\bin\App.Apresentacao.App.Apresentacao.apk
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\login.xml
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\res\values\strings.xml
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\res\values\estilo.xml
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\icon.ico
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\logo.png
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\splash.png
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\logomobile.png
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\logoprodutomobile.png
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\logoprodutomobile1.png
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\cadcliente.xml
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\logosmobile.png
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\layout1.xml
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\agendamento.xml
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\menu.xml
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\semtitulo111.png
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\esqueceusenha.xml
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\auteesqsenha.xml
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\R.cs.flag
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\R.txt
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\uploadflags.txt
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\Mono.Android.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\Mono.Security.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\mscorlib.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\System.Core.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\System.Data.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\System.Net.Http.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\System.Numerics.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\System.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\System.Transactions.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\System.Xml.Linq.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\System.Xml.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\SQLite.Net.dll
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\System.IO.Compression.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\System.Web.Services.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\Mono.Android.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\mscorlib.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\Newtonsoft.Json.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Core.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Data.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Net.Http.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Xml.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Xml.Linq.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Runtime.Serialization.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.IO.Compression.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Numerics.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Transactions.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Web.Services.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\Mono.Security.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\App.Apresentacao.dll.mdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\bin\Debug\App.Apresentacao.dll.mdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\App.Apresentacao.dll.mdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\Mono.Android.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\Mono.Security.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\mscorlib.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\Newtonsoft.Json.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Core.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Data.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.IO.Compression.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Net.Http.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Numerics.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Runtime.Serialization.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Transactions.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Web.Services.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Xml.Linq.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\BeautySpecialMobile (2)\BeautySpecialMobile\App.Apresentacao\App.Apresentacao\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Xml.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\App.Apresentacao.csprojAssemblyReference.cache
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res.flag
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\App.Apresentacao.csproj.CoreCompileInputs.cache
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\App.Apresentacao.dll
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\App.Apresentacao.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\App.Apresentacao.dll
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\App.Apresentacao.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\App.Apresentacao.App.Apresentacao.apk
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\App.Apresentacao.App.Apresentacao-Signed.apk
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\Newtonsoft.Json.dll
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\Newtonsoft.Json.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\Newtonsoft.Json.xml
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\App.Apresentacao.csproj.CopyComplete
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\bin\App.Apresentacao.App.Apresentacao.apk
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\login.xml
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\values\strings.xml
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\values\estilo.xml
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\icon.ico
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\logo.png
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\splash.png
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\logomobile.png
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\logoprodutomobile.png
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\logoprodutomobile1.png
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\cadcliente.xml
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\logosmobile.png
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\layout1.xml
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\agendamento.xml
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\menu.xml
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\semtitulo111.png
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\esqueceusenha.xml
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\auteesqsenha.xml
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\R.cs.flag
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\R.txt
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\uploadflags.txt
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\Mono.Android.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\Mono.Security.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\mscorlib.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.ComponentModel.Composition.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Core.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Data.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.IO.Compression.FileSystem.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.IO.Compression.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Net.Http.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Numerics.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Runtime.Serialization.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.ServiceModel.Internals.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Transactions.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Web.Services.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Xml.Linq.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Xml.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\SQLite.Net.dll
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\App.Apresentacao.dll.mdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\App.Apresentacao.dll.mdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\Mono.Android.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\Mono.Security.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\mscorlib.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\Newtonsoft.Json.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.ComponentModel.Composition.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Core.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Data.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.IO.Compression.FileSystem.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.IO.Compression.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Net.Http.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Numerics.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Runtime.Serialization.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.ServiceModel.Internals.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Transactions.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Web.Services.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Xml.Linq.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Xml.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\App.Apresentacao.dll.mdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\Mono.Android.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\Mono.Security.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\mscorlib.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\Newtonsoft.Json.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.ComponentModel.Composition.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Core.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Data.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.IO.Compression.FileSystem.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.IO.Compression.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Net.Http.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Numerics.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Runtime.Serialization.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.ServiceModel.Internals.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Transactions.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Web.Services.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Xml.Linq.pdb
+E:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Xml.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\App.Apresentacao.dll
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\App.Apresentacao.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\App.Apresentacao.App.Apresentacao.apk
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\App.Apresentacao.App.Apresentacao-Signed.apk
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\Newtonsoft.Json.dll
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\Newtonsoft.Json.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\Newtonsoft.Json.xml
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\App.Apresentacao.csprojAssemblyReference.cache
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res.flag
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\App.Apresentacao.csproj.CoreCompileInputs.cache
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\App.Apresentacao.csproj.CopyComplete
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\App.Apresentacao.dll
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\App.Apresentacao.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\bin\App.Apresentacao.App.Apresentacao.apk
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\login.xml
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\values\strings.xml
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\values\estilo.xml
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\icon.ico
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\logo.png
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\splash.png
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\logomobile.png
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\logoprodutomobile.png
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\logoprodutomobile1.png
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\cadcliente.xml
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\logosmobile.png
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\layout1.xml
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\agendamento.xml
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\menu.xml
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\semtitulo111.png
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\esqueceusenha.xml
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\auteesqsenha.xml
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\R.cs.flag
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\R.txt
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\uploadflags.txt
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\Mono.Android.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\Mono.Security.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\mscorlib.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.ComponentModel.Composition.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Core.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Data.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.IO.Compression.FileSystem.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.IO.Compression.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Net.Http.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Numerics.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Runtime.Serialization.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.ServiceModel.Internals.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Transactions.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Web.Services.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Xml.Linq.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Xml.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\SQLite.Net.dll
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\bin\Debug\App.Apresentacao.dll.mdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\App.Apresentacao.dll.mdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\Mono.Android.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\Mono.Security.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\mscorlib.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\Newtonsoft.Json.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.ComponentModel.Composition.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Core.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Data.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.IO.Compression.FileSystem.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.IO.Compression.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Net.Http.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Numerics.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Runtime.Serialization.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.ServiceModel.Internals.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Transactions.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Web.Services.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Xml.Linq.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Xml.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\App.Apresentacao.dll.mdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\Mono.Android.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\Mono.Security.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\mscorlib.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\Newtonsoft.Json.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.ComponentModel.Composition.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Core.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Data.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.IO.Compression.FileSystem.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.IO.Compression.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Net.Http.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Numerics.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Runtime.Serialization.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.ServiceModel.Internals.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Transactions.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Web.Services.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Xml.Linq.pdb
+H:\BeautySpecialMobile (2)\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Xml.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\App.Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\App.Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\App.Apresentacao.App.Apresentacao.apk
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\App.Apresentacao.App.Apresentacao-Signed.apk
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\App.Apresentacao.csprojAssemblyReference.cache
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res.flag
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\App.Apresentacao.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\App.Apresentacao.csproj.CopyComplete
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\App.Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\App.Apresentacao.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\bin\App.Apresentacao.App.Apresentacao.apk
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\login.xml
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\values\strings.xml
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\values\estilo.xml
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\icon.ico
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\logo.png
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\splash.png
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\logomobile.png
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\logoprodutomobile.png
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\logoprodutomobile1.png
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\cadcliente.xml
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\logosmobile.png
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\layout1.xml
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\agendamento.xml
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\menu.xml
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\drawable\semtitulo111.png
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\esqueceusenha.xml
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\res\layout\auteesqsenha.xml
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\R.cs.flag
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\R.txt
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\uploadflags.txt
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\Mono.Android.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\Mono.Security.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\mscorlib.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Core.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Data.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.IO.Compression.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Net.Http.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Numerics.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Transactions.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Web.Services.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Xml.Linq.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\System.Xml.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\SQLite.Net.dll
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\App.Apresentacao.dll.mdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\App.Apresentacao.dll.mdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\Mono.Android.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\Mono.Security.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\mscorlib.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\Newtonsoft.Json.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Core.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Data.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.IO.Compression.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Net.Http.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Numerics.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Runtime.Serialization.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Transactions.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Web.Services.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Xml.Linq.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\android\assets\System.Xml.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\App.Apresentacao.dll.mdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\Mono.Android.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\Mono.Security.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\mscorlib.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\Newtonsoft.Json.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Core.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Data.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.IO.Compression.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Net.Http.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Numerics.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Runtime.Serialization.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Transactions.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Web.Services.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Xml.Linq.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\System.Xml.pdb
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\bin\Debug\App.Apresentacao.dll
+C:\Users\MisterSpeedy\Desktop\Sistema(Mobile)\App.Apresentacao\obj\Debug\MonoAndroid50\linksrc\App.Apresentacao.dll.mdb

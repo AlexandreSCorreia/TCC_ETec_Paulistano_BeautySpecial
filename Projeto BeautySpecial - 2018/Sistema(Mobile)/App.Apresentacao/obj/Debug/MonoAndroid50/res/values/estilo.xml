@@ -1,0 +1,3 @@
+<resources><style name="SplashScreen.Theme" parent="android:Theme"><item name="android:windowBackground">
+      @drawable/splash
+    </item><item name="android:windowNoTitle">true</item></style><style name="Login.Theme" parent="android:Theme"><item name="android:windowNoTitle">true</item></style><style name="CadCliente.Theme" parent="android:Theme"><item name="android:windowNoTitle">true</item></style></resources>

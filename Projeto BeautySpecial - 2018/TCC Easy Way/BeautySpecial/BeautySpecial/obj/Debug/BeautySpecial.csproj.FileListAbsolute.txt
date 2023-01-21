@@ -1,0 +1,278 @@
+C:\Users\alcorreia\Desktop\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe.config
+C:\Users\alcorreia\Desktop\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe
+C:\Users\alcorreia\Desktop\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.pdb
+C:\Users\alcorreia\Desktop\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csprojResolveAssemblyReference.cache
+C:\Users\alcorreia\Desktop\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Properties.Resources.resources
+C:\Users\alcorreia\Desktop\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csproj.GenerateResource.Cache
+C:\Users\alcorreia\Desktop\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.exe
+C:\Users\alcorreia\Desktop\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.pdb
+C:\Users\alcorreia\Desktop\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.SplashScreen.resources
+C:\Users\alcorreia\Desktop\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Login.resources
+C:\Users\alcorreia\Desktop\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Menu.resources
+C:\Users\alcorreia\Desktop\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Cadastro.resources
+C:\Users\alcorreia\Desktop\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadCliente.resources
+C:\Users\alcorreia\Desktop\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadFuncionario.resources
+C:\Users\alcorreia\Desktop\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadProduto.resources
+C:\Users\alcorreia\Desktop\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadServico.resources
+F:\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe.config
+F:\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe
+F:\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.pdb
+F:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csprojResolveAssemblyReference.cache
+F:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Cadastro.resources
+F:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadCliente.resources
+F:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadFuncionario.resources
+F:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadProduto.resources
+F:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadServico.resources
+F:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Menu.resources
+F:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.SplashScreen.resources
+F:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Login.resources
+F:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Properties.Resources.resources
+F:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csproj.GenerateResource.cache
+F:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csproj.CoreCompileInputs.cache
+F:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.exe
+F:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.pdb
+C:\Users\alcorreia\Downloads\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe.config
+C:\Users\alcorreia\Downloads\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.exe
+C:\Users\alcorreia\Downloads\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.pdb
+C:\Users\alcorreia\Downloads\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe
+C:\Users\alcorreia\Downloads\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.pdb
+C:\Users\alcorreia\Downloads\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csprojResolveAssemblyReference.cache
+C:\Users\alcorreia\Downloads\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Cadastro.resources
+C:\Users\alcorreia\Downloads\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadCliente.resources
+C:\Users\alcorreia\Downloads\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadFuncionario.resources
+C:\Users\alcorreia\Downloads\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadProduto.resources
+C:\Users\alcorreia\Downloads\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadServico.resources
+C:\Users\alcorreia\Downloads\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Menu.resources
+C:\Users\alcorreia\Downloads\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.SplashScreen.resources
+C:\Users\alcorreia\Downloads\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Login.resources
+C:\Users\alcorreia\Downloads\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Properties.Resources.resources
+C:\Users\alcorreia\Downloads\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csproj.GenerateResource.Cache
+J:\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe.config
+J:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.exe
+J:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.pdb
+J:\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe
+J:\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.pdb
+J:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csprojResolveAssemblyReference.cache
+J:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Agendamento.resources
+J:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Cadastro.resources
+J:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadCliente.resources
+J:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadFuncionario.resources
+J:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadProduto.resources
+J:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadServico.resources
+J:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Comanda.resources
+J:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Menu.resources
+J:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.SplashScreen.resources
+J:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Login.resources
+J:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Properties.Resources.resources
+J:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csproj.GenerateResource.Cache
+I:\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe.config
+I:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.exe
+I:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.pdb
+D:\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe.config
+D:\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe
+D:\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.pdb
+D:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csprojAssemblyReference.cache
+D:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Agendamento.resources
+D:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Cadastro.resources
+D:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadCliente.resources
+D:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadFuncionario.resources
+D:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadProduto.resources
+D:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadServico.resources
+D:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Comanda.resources
+D:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Menu.resources
+D:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.SplashScreen.resources
+D:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Login.resources
+D:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Properties.Resources.resources
+D:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csproj.GenerateResource.cache
+D:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csproj.CoreCompileInputs.cache
+D:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.exe
+D:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.pdb
+H:\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe.config
+H:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.exe
+H:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.pdb
+H:\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe
+H:\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.pdb
+H:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csprojResolveAssemblyReference.cache
+H:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Agendamento.resources
+H:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Caixa.resources
+H:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Financas.resources
+H:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.MenuCadastro.resources
+H:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadCliente.resources
+H:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadFuncionario.resources
+H:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadProduto.resources
+H:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadServico.resources
+H:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Comanda.resources
+H:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Menu.resources
+H:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Produto.resources
+H:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Servicos.resources
+H:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.SplashScreen.resources
+H:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Login.resources
+H:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Properties.Resources.resources
+H:\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csproj.GenerateResource.Cache
+F:\TCC\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe.config
+F:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.exe
+F:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.pdb
+F:\TCC\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe
+F:\TCC\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.pdb
+F:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csprojResolveAssemblyReference.cache
+F:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Agendamento.resources
+F:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Caixa.resources
+F:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Financas.resources
+F:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.MenuCadastro.resources
+F:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadCliente.resources
+F:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadFuncionario.resources
+F:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadProduto.resources
+F:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadServico.resources
+F:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Comanda.resources
+F:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Menu.resources
+F:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Produto.resources
+F:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Servicos.resources
+F:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.SplashScreen.resources
+F:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Login.resources
+F:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Properties.Resources.resources
+F:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csproj.GenerateResource.Cache
+I:\TCC\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe.config
+I:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.exe
+I:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.pdb
+I:\TCC\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe
+I:\TCC\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.pdb
+I:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csprojResolveAssemblyReference.cache
+I:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Agendamento.resources
+I:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Caixa.resources
+I:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Financas.resources
+I:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.MenuCadastro.resources
+I:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadCliente.resources
+I:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadFuncionario.resources
+I:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadProduto.resources
+I:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadServico.resources
+I:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Comanda.resources
+I:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Menu.resources
+I:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Produto.resources
+I:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Servicos.resources
+I:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.SplashScreen.resources
+I:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Login.resources
+I:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Properties.Resources.resources
+I:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csproj.GenerateResource.Cache
+E:\TCC\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe.config
+E:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.exe
+E:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.pdb
+J:\TCC\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe.config
+J:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.exe
+J:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.pdb
+D:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csprojAssemblyReference.cache
+D:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Agendamento.resources
+D:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Caixa.resources
+D:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Financas.resources
+D:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.MenuCadastro.resources
+D:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadCliente.resources
+D:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadFuncionario.resources
+D:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadProduto.resources
+D:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadServico.resources
+D:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Comanda.resources
+D:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Menu.resources
+D:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Produto.resources
+D:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Servicos.resources
+D:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.SplashScreen.resources
+D:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Login.resources
+D:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Properties.Resources.resources
+D:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csproj.GenerateResource.cache
+D:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csproj.CoreCompileInputs.cache
+D:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.exe
+D:\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.pdb
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csprojAssemblyReference.cache
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Agendamento.resources
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Caixa.resources
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Financas.resources
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.MenuCadastro.resources
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadCliente.resources
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadFuncionario.resources
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadProduto.resources
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadServico.resources
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Comanda.resources
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Menu.resources
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Produto.resources
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Servicos.resources
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.SplashScreen.resources
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Login.resources
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Properties.Resources.resources
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csproj.GenerateResource.cache
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csproj.CoreCompileInputs.cache
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.exe
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.pdb
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe.config
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe
+D:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.pdb
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe.config
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.exe
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.pdb
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe.config
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.pdb
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csprojAssemblyReference.cache
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Agendamento.resources
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Caixa.resources
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Cliente.resources
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Financas.resources
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Funcionario.resources
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.MenuContrCadastro.resources
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadCliente.resources
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadFuncionario.resources
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadProduto.resources
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadServico.resources
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Comanda.resources
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Menu.resources
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Produto.resources
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Servicos.resources
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.SplashScreen.resources
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Login.resources
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Properties.Resources.resources
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csproj.GenerateResource.cache
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csproj.CoreCompileInputs.cache
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.exe
+I:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.pdb
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.pdb
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csprojResolveAssemblyReference.cache
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Agendamento.resources
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Caixa.resources
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Cliente.resources
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Financas.resources
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Funcionario.resources
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.MenuContrCadastro.resources
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadCliente.resources
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadFuncionario.resources
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadProduto.resources
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadServico.resources
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Comanda.resources
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Menu.resources
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Produto.resources
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Servicos.resources
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.SplashScreen.resources
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Login.resources
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Properties.Resources.resources
+F:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csproj.GenerateResource.Cache
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe.config
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.exe
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\bin\Debug\BeautySpecial.pdb
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csprojResolveAssemblyReference.cache
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Agendamento.resources
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Caixa.resources
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Cliente.resources
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Financas.resources
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Funcionario.resources
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.MenuContrCadastro.resources
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadCliente.resources
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadFuncionario.resources
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Comanda.resources
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Menu.resources
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Servicos.resources
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.SplashScreen.resources
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Login.resources
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Properties.Resources.resources
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csproj.GenerateResource.cache
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.csproj.CoreCompileInputs.cache
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.exe
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.pdb
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadProdutos.resources
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.CadServicos.resources
+E:\3° Módulo\DTCC - Desenvolvimento de Trabalho de Conclusão de Curso\TCC\BeautySpecial\BeautySpecial\obj\Debug\BeautySpecial.Produtos.resources

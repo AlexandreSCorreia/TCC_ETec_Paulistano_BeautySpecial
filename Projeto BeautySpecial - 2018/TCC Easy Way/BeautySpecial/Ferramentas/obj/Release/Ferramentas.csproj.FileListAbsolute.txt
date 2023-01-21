@@ -1,0 +1,10 @@
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Ferramentas\bin\Release\Ferramentas.dll
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Ferramentas\bin\Release\Ferramentas.pdb
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Ferramentas\obj\Release\Ferramentas.csproj.CoreCompileInputs.cache
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Ferramentas\obj\Release\Ferramentas.dll
+C:\Users\MisterSpeedy\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Ferramentas\obj\Release\Ferramentas.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Ferramentas\bin\Release\Ferramentas.dll
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Ferramentas\bin\Release\Ferramentas.pdb
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Ferramentas\obj\Release\Ferramentas.csproj.CoreCompileInputs.cache
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Ferramentas\obj\Release\Ferramentas.dll
+C:\Users\BRUNADELIMAOLIVEIRA\Desktop\TCC 5.0\TCC 4.0\ultima atualizacao do software\Projeto Atualizado\BeautySpecial Banco de dados\BeautySpecial\Ferramentas\obj\Release\Ferramentas.pdb
